@@ -19,10 +19,10 @@ Features
 - Footer with social or personal links
 
 Project Structure  
-OIBSIP_webdevelopment_task2/  
-├── index.html  
-├── style.css  
-└── README.md
+OIBSIP_webdevelopment_task2
+index.html  
+style.css  
+README.md
 
 Live Demo  
 Live Website: [https://kumarabhinav17.github.io/OIBSIP_webdevelopment_task2/](https://kumarabhinav17.github.io/OIBSIP_webdevelopment_task2/)
